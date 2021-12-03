@@ -1,2 +1,2 @@
 # My_Notebook
-A notebook repository created to complete IBM data science course on edX
+A notebook repository created to complete IBM data science course final assignmen on edX
